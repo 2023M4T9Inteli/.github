@@ -8,7 +8,7 @@
 
 ...
 
-## :computer: Modelo Preditivo:
+## :computer: Protótipos IoT:
 
 - Grupo 1 - Led-Zeppelin:
   - Link do repositório: https://github.com/2023M4T9Inteli/grupo1
