@@ -2,11 +2,11 @@
 
 ## :mag: O problema:
 
-...
+Alto custo dos equipamentos e soluções de mercado para aplicação de monitoramento de estruturas em engenharia civil.
 
 ## :dart: O objetivo:
 
-...
+Adaptar Hardwares de IOT capazes de monitorar estruturas físicas de engenharia civil como Pontes e Prédios para dilatação em estruturas metálicas.
 
 ## :computer: Protótipos IoT:
 
