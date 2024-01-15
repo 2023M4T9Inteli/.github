@@ -19,7 +19,7 @@ Adaptar Hardwares de IOT capazes de monitorar estruturas físicas de engenharia 
 - Grupo 3 - : Asimov
   - Link do repositório: https://github.com/2023M4T9Inteli/grupo3
   
-- Grupo 4 - : 
+- Grupo 4 - : Eléctron
   - Link do repositório: https://github.com/2023M4T9Inteli/grupo4
   
 - Grupo 5 - Iron:
