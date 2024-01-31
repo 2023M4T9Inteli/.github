@@ -11,16 +11,16 @@ Adaptar Hardwares de IOT capazes de monitorar estruturas físicas de engenharia 
 ## :computer: Protótipos IoT:
 
 - Grupo 1 - Led-Zeppelin:
-  - Link do repositório: https://github.com/2023M4T9Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo1
 
 - Grupo 2 - IoTech:
-  - Link do repositório: https://github.com/2023M4T9Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo2
   
 - Grupo 3 - : Asimov
-  - Link do repositório: https://github.com/2023M4T9Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo3
   
 - Grupo 4 - : Eléctron
-  - Link do repositório: https://github.com/2023M4T9Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo4
   
 - Grupo 5 - Iron:
-  - Link do repositório: https://github.com/2023M4T9Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo5
