@@ -16,7 +16,7 @@ Adaptar Hardwares de IOT capazes de monitorar estruturas físicas de engenharia 
 - Grupo 2 - IoTech:
   - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo2
   
-- Grupo 3 - : Asimov
+- Grupo 3 - : ConnectIPT
   - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo3
   
 - Grupo 4 - : Eléctron
