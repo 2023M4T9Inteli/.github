@@ -23,4 +23,4 @@ Adaptar Hardwares de IOT capazes de monitorar estruturas físicas de engenharia 
   - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo4
   
 - Grupo 5 - Iron:
-  - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M4T9Inteli-grupo5 
